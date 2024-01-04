@@ -1,0 +1,6 @@
+@VSS_HostAddress = http://localhost:5075
+
+GET {{VSS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
